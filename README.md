@@ -17,8 +17,10 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
      * Adicionar "scripts" como o comando "dev" para executar o arquivo de index
 
 
-# Módulos
+# Exercícios
 
+## Módulos
+* [Módulo 01](https://github.com/ArturMassaro/GoStack08-Modulo-01)
 
-# Desafios
-
+## Desafios
+* [Desafio 01](https://github.com/ArturMassaro/GoStack08-Desafio-01)
