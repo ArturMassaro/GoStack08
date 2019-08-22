@@ -15,7 +15,14 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * Nodemon:
   
      * Adicionar "scripts" como o comando "dev" para executar o arquivo de index
+* Sequelize: Realiza a conexão com o banco e cria abstração do SQL.
+* Eslint: Padroniza o codigo
 
+     * Padrão Airbnb
+* Prettier: complemento para o eslint.
+* EditorConfig: Mantém a configuração entre os editores de texto.
+* Bcryptjs: Cria Hash
+  
 
 # Módulos
 
