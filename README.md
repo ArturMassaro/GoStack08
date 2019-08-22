@@ -23,7 +23,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * EditorConfig: Mantém a configuração entre os editores de texto.
 * Bcryptjs: Cria Hash
   
-### [Exemplos](Exemplos/README.md)
+### [Exemplos](https://github.com/ArturMassaro/GoStack08/tree/master/Exemplos)
 
 # Exercícios
 
