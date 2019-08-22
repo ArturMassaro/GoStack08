@@ -1,0 +1,45 @@
+{
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "emmet.includeLanguages": {
+        "axlsx": "html",
+        "xlsx": "html",
+        "erb": "html",
+        "javascript": "javascriptreact"
+    },
+    "dart.flutterSdkPath": "/Users/yazo/development/flutter",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "eslint.autoFixOnSave": true,
+    "editor.formatOnSave": false,
+    "eslint.validate": [
+        {
+            "language": "javascript",
+            "autoFix": true
+        },
+        {
+            "language": "javascriptreact",
+            "autoFix": true
+        },
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+        {
+            "language": "typescriptreact",
+            "autoFix": true
+        },
+    ],
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.tabSize": 2,
+    "editor.renderLineHighlight": "gutter",
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "breadcrumbs.enabled": true,
+    "prettier.eslintIntegration": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+}
