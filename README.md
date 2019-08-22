@@ -22,6 +22,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * Prettier: complemento para o eslint.
 * EditorConfig: Mantém a configuração entre os editores de texto.
 * Bcryptjs: Cria Hash
+* jsonwebtoken: Autenticação
   
 ### [Exemplos](https://github.com/ArturMassaro/GoStack08/tree/master/Exemplos)
 
