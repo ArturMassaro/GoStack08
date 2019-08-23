@@ -13,6 +13,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * Nodemon: Reinicia o servidor toda vez que é alterado um arquivo -- deve ser instalado com a flag '-D' indicando que é apenas para desenvolvimento
   
      * Adicionar "scripts" como o comando "dev" para executar o arquivo de index
+ * Sucrase: possibilita usar novo padrão de importação.
 * Sequelize: Realiza a conexão com o banco e cria abstração do SQL.
 * Eslint: Padroniza o codigo
 
