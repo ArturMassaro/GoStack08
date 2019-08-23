@@ -15,6 +15,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
      * Adicionar "scripts" como o comando "dev" para executar o arquivo de index
 * Sucrase: possibilita usar novo padrão de importação.
 * Sequelize: Realiza a conexão com o banco e cria abstração do SQL.
+  * Nova migrate : sequelize migration:create --name=
 * Eslint: Padroniza o codigo
 
      * Padrão Airbnb
