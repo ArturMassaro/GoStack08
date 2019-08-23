@@ -11,7 +11,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * Express - Criação do servidor
 * Nodemon - Reinicia o servidor toda vez que é alterado um arquivo -- deve ser instalado com a flag '-D' indicando que é apenas para desenvolvimento
 
-## Configurações
+## Packages
 * Nodemon:
   
      * Adicionar "scripts" como o comando "dev" para executar o arquivo de index
@@ -23,6 +23,11 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * EditorConfig: Mantém a configuração entre os editores de texto.
 * Bcryptjs: Cria Hash
 * jsonwebtoken: Autenticação
+* promissify
+  * Transforma função de callback em uma função que aceita async/await
+  * import { promissify } from 'util';
+  * await promissify({ Função de callback })({ Parametros });
+  
   
 ### [Exemplos](https://github.com/ArturMassaro/GoStack08/tree/master/Exemplos)
 
