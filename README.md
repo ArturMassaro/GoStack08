@@ -20,6 +20,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
      * Padrão Airbnb
      * yarn eslint --init
 * Prettier: complemento para o eslint.
+  * instalação: yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
 * EditorConfig: Mantém a configuração entre os editores de texto.
 * Bcryptjs: Cria Hash
 * jsonwebtoken: Autenticação
