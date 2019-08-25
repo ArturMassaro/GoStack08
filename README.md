@@ -35,6 +35,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * resolve: navega entre paths.
 * date-fns: Manipulação de datas.
   *  yarn add date-fns@next - instala a versão mais recente 
+* mongoose: Realiza a conexão com o banco e cria abstração do banco nao relacional mongoDB.
 
 
 ### [Exemplos](https://github.com/ArturMassaro/GoStack08/tree/master/Exemplos)
