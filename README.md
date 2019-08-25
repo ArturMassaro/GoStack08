@@ -36,6 +36,9 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * date-fns: Manipulação de datas.
   *  yarn add date-fns@next - instala a versão mais recente 
 * mongoose: Realiza a conexão com o banco e cria abstração do banco nao relacional mongoDB.
+* nodemailer: Envio de email.
+* Handlebars: Template de email
+  * yarn add express-handlebars nodemailer-express-handlebars
 
 
 ### [Exemplos](https://github.com/ArturMassaro/GoStack08/tree/master/Exemplos)
@@ -49,3 +52,14 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 ## Desafios
 * [Desafio 01](https://github.com/ArturMassaro/GoStack08-Desafio-01)
 * [Desafio Meetapp](https://github.com/ArturMassaro/GoStack08-Meetapp)
+
+
+
+
+# Serviços
+
+## Email
+* Amazon SES
+* Mailgun
+* Mandril(Exlusivo para mailchimp)
+* Mailtrap(Somente Dev)
