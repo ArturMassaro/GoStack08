@@ -15,7 +15,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
      * Adicionar "scripts" como o comando "dev" para executar o arquivo de index
 * Sucrase: possibilita usar novo padrão de importação.
 * Sequelize: Realiza a conexão com o banco e cria abstração do SQL.
-  * Nova migrate : sequelize migration:create --name=
+  * Nova migrate :sequelize migration:create --name=
 * Eslint: Padroniza o codigo
 
      * Padrão Airbnb
@@ -30,8 +30,13 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
   * import { promissify } from 'util';
   * await promissify({ Função de callback })({ Parametros });
 * yup: Cria validação dos atributos do model.
+* Multer: Possibilita a uttilização de upload de arquivo em multi part form data
+* crypto: Gera caracteres aleatorios, entre outras coisas.
+* resolve: navega entre paths.
+* date-fns: Manipulação de datas.
+  *  yarn add date-fns@next - instala a versão mais recente 
 
-  
+
 ### [Exemplos](https://github.com/ArturMassaro/GoStack08/tree/master/Exemplos)
 
 # Exercícios
@@ -42,3 +47,4 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 
 ## Desafios
 * [Desafio 01](https://github.com/ArturMassaro/GoStack08-Desafio-01)
+* [Desafio Meetapp](https://github.com/ArturMassaro/GoStack08-Meetapp)
