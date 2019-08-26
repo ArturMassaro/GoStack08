@@ -39,6 +39,9 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * nodemailer: Envio de email.
 * Handlebars: Template de email
   * yarn add express-handlebars nodemailer-express-handlebars
+* express-async-errors: Captura os erros em funções async. Necessario para utilizar o Sentry
+* Youch: Ajuda na visualização de erros
+* dotenv: Ler arquivo .env
 
 
 ### [Exemplos](https://github.com/ArturMassaro/GoStack08/tree/master/Exemplos)
@@ -55,6 +58,13 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 
 
 
+# Docker
+* Postgres
+* Mongodb
+  * docker run --name mongobarber -p 27017:27017 -d -t mongo
+* Redis
+  * docker run --name redisbarber -p 6379:6379 -d -t redis:alpine
+
 
 # Serviços
 
@@ -63,3 +73,11 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * Mailgun
 * Mandril(Exlusivo para mailchimp)
 * Mailtrap(Somente Dev)
+
+## Sistema de fila
+* Bee Queue(Mais performatico)
+* kue(Menos performatico, porem tem mais funcionalidades)
+
+## Gerenciamento de erros
+* Sentry
+  * yarn add @sentry/node@5.6.2 
