@@ -46,15 +46,8 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 
 ### [Exemplos](https://github.com/ArturMassaro/GoStack08/tree/master/Exemplos)
 
-# Exercícios
 
-## Módulos
-* [Módulo 01](https://github.com/ArturMassaro/GoStack08-Modulo-01)
-* [Módulo 02(GoBarber - Backend)](https://github.com/ArturMassaro/GoStack08-Modulo-02)
 
-## Desafios
-* [Desafio 01](https://github.com/ArturMassaro/GoStack08-Desafio-01)
-* [Desafio Meetapp](https://github.com/ArturMassaro/GoStack08-Meetapp)
 
 
 
@@ -68,7 +61,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 
 # Serviços
 
-## Email
+### Email
 * Amazon SES
 * Mailgun
 * Mandril(Exlusivo para mailchimp)
@@ -81,3 +74,41 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 ## Gerenciamento de erros
 * Sentry
   * yarn add @sentry/node@5.6.2 
+
+
+# React
+
+## Instalações iniciais
+* yarn add @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli -D
+* yarn add react react-dom
+* yarn add @babel/plugin-proposal-class-properties -D
+
+  
+## Loader 
+* yarn add babel-loader -D
+* yarn add webpack-dev-server -D Live Reload
+* yarn add style-loader css-loader -D css
+* yarn add file-loader -D imagem
+* 
+## Bibliotecas
+
+* prop-types: Verifica o tipo de parametro passado
+* yarn add styled-components
+* yarn add react-icons
+* yarn add axios
+
+## Nova Projeto já com configs.
+* yarn create react-app <NAME>
+
+### Prettier & eslint
+* yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+
+# Exercícios
+
+## Módulos
+* [Módulo 01](https://github.com/ArturMassaro/GoStack08-Modulo-01)
+* [Módulo 02(GoBarber - Backend)](https://github.com/ArturMassaro/GoStack08-Modulo-02)
+
+## Desafios
+* [Desafio 01](https://github.com/ArturMassaro/GoStack08-Desafio-01)
+* [Desafio Meetapp](https://github.com/ArturMassaro/GoStack08-Meetapp)

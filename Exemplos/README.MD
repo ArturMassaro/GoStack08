@@ -5,3 +5,4 @@
 * [Prettier](.prettierrc)
 * [Sequelize](.sequelizerc)
 * [EditorConfig](.editorconfig)
+
