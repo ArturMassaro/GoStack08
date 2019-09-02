@@ -103,6 +103,13 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 ### Prettier & eslint
 * yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
 
+# React Native
+
+## Bibliotecas
+* yarn add reactotron-react-native: Log
+* yarn add react-navigation react-native-gesture-handler react-native-reanimated: Navegação
+* yarn add react-native-vector-icons: Icons
+
 # Exercícios
 
 ## Módulos
