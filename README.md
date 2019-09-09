@@ -109,12 +109,17 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * yarn add reactotron-react-native: Log
 * yarn add react-navigation react-native-gesture-handler react-native-reanimated: Navegação
 * yarn add react-native-vector-icons: Icons
+  * react-native link react-native-vector-icons: link necessario.
+* yarn add @react-native-community/async-storage: Local Storage
 
 # Exercícios
 
 ## Módulos
 * [Módulo 01](https://github.com/ArturMassaro/GoStack08-Modulo-01)
 * [Módulo 02(GoBarber - Backend)](https://github.com/ArturMassaro/GoStack08-Modulo-02)
+* [Módulo 04](https://github.com/ArturMassaro/GoStack08-Modulo-04)
+* [Módulo 05](https://github.com/ArturMassaro/GoStack08-Modulo-05)
+* [Módulo 06](https://github.com/ArturMassaro/GoStack08-Modulo-06)
 
 ## Desafios
 * [Desafio 01](https://github.com/ArturMassaro/GoStack08-Desafio-01)
