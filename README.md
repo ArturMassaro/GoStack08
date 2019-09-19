@@ -96,12 +96,23 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * yarn add styled-components
 * yarn add react-icons
 * yarn add axios
+* yarn add polished: Modificação de cores css
+* yarn add json-server
+* yarn add redux react-redux
+* yarn add reactotron-react-js reactotron-redux
+* yarn add immer
+* yarn add redux-saga
+* yarn add reactotron-redux-saga
+* yarn add react-toastify: Avisos
+* yarn add history
+
 
 ## Nova Projeto já com configs.
 * yarn create react-app <NAME>
 
 ### Prettier & eslint
 * yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+* yarn add eslint-plugin-react-hooks -D
 
 # React Native
 
