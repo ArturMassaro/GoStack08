@@ -92,27 +92,32 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * 
 ## Bibliotecas
 
-* prop-types: Verifica o tipo de parametro passado
+* yarn add prop-types: Verifica o tipo de parametro passado
 * yarn add styled-components
 * yarn add react-icons
 * yarn add axios
 * yarn add polished: Modificação de cores css
 * yarn add json-server
-* yarn add redux react-redux
 * yarn add reactotron-react-js reactotron-redux
-* yarn add immer
-* yarn add redux-saga
-* yarn add reactotron-redux-saga
 * yarn add react-toastify: Avisos
 * yarn add history
+* yarn add customize-cra react-app-rewired -D
+* yarn add @rocketseat/unform: Facilita a utilização de formularios
+* yarn add react-perfect-scrollbars
+* yarn add date-fns@next: distancia relativa em datas
+* yarn add date-fns-tz: Timezone
 
+### Redux
+* yarn add redux redux-saga react-redux reactotron-react-js reactotron-redux reactotron-redux-saga immer 
+* yarn add redux-persist: persistencia de dados
 
 ## Nova Projeto já com configs.
 * yarn create react-app <NAME>
 
 ### Prettier & eslint
-* yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
-* yarn add eslint-plugin-react-hooks -D
+* yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint eslint-plugin-react-hooks -D
+* yarn add eslint-import-resolver-babel-plugin-root-import -D
+* yarn add babel-plugin-root-import
 
 # React Native
 
@@ -123,6 +128,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
   * react-native link react-native-vector-icons: link necessario.
 * yarn add @react-native-community/async-storage: Local Storage
 
+
 # Exercícios
 
 ## Módulos
@@ -131,7 +137,11 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 * [Módulo 04](https://github.com/ArturMassaro/GoStack08-Modulo-04)
 * [Módulo 05](https://github.com/ArturMassaro/GoStack08-Modulo-05)
 * [Módulo 06](https://github.com/ArturMassaro/GoStack08-Modulo-06)
+* [Módulo 07](https://github.com/ArturMassaro/GoStack08-Modulo-07)
+* [Módulo 08](https://github.com/ArturMassaro/GoStack08-Modulo-08)
+* [Módulo 09](https://github.com/ArturMassaro/GoStack08-Modulo-09)
 
 ## Desafios
 * [Desafio 01](https://github.com/ArturMassaro/GoStack08-Desafio-01)
 * [Desafio Meetapp](https://github.com/ArturMassaro/GoStack08-Meetapp)
+* [Desafio Meetapp - Web](https://github.com/ArturMassaro/GoStack08-Meetapp-Web)
