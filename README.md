@@ -132,7 +132,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 
 ## Reactotron/redux
 
-yarn add reactotron-react-native reactotron-redux  reactotron-redux-saga redux redux-saga react-redux
+yarn add reactotron-react-native reactotron-redux  reactotron-redux-saga redux redux-saga react-redux redux-persist immer 
 
 
 # Exercícios
