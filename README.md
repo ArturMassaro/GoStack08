@@ -124,9 +124,15 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 ## Bibliotecas
 * yarn add reactotron-react-native: Log
 * yarn add react-navigation react-native-gesture-handler react-native-reanimated: Navegação
+* yarn add jetifier -D: Fix React Native X
 * yarn add react-native-vector-icons: Icons
   * react-native link react-native-vector-icons: link necessario.
 * yarn add @react-native-community/async-storage: Local Storage
+* yarn add react-native-linear-gradient
+
+## Reactotron/redux
+
+yarn add reactotron-react-native reactotron-redux  reactotron-redux-saga redux redux-saga react-redux
 
 
 # Exercícios
