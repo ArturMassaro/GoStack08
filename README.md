@@ -53,6 +53,7 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 
 # Docker
 * Postgres
+  * docker run --name database -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d postgres:11
 * Mongodb
   * docker run --name mongobarber -p 27017:27017 -d -t mongo
 * Redis
